@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
  * love cats ^^
  * always innocent
  
-As Ogden Nash said:
+_As Ogden Nash said:_
  
 > The truth I do not stretch or shove
 > When I state that the dog is full of love.
